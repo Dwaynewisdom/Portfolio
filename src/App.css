@@ -135,6 +135,15 @@ body {
   border-radius: 50px;
 }
 
+.img4{
+  opacity: 0.4;
+  transition: all 0.3s ease;
+  padding: 15px;
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+}
+
 .card-logo{
   width: 50px;
   height: 50px;
@@ -162,7 +171,7 @@ body {
 .Welcome-text p {
   font-size: 1.1rem;
   line-height: 1.8;
-  color: #b8d4e8;
+  color: #ffffff;
   margin: 0;
 }
 
@@ -239,7 +248,7 @@ body {
 .card-list {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;     /* allows cards to move to the next line on smaller screens */
+  flex-wrap: wrap;    
   justify-content: center;
   gap: 30px;
   width: 100%;
@@ -273,7 +282,7 @@ body {
 }
 
 .card p {
-  color: #b8d4e8;
+  color: #ffffff;
   font-size: 0.95rem;
   line-height: 1.5;
 }

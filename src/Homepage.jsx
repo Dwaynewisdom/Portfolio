@@ -5,8 +5,8 @@ function Homepage() {
       <div className="Welcome-text">
         <h1>Welcome</h1>
         <p>
-          I'm Dwayne Wisdom, computer and business student and explorer of various programming languages. I'm passionate about understanding and fully exploring the capabilities of various languages and the bridge they create between human and machine communication.
-          My interest for programming originally sparked in the 10th grade where the possibility to automate and build programs to benefit not only me but others fueled me to begin study, I would however put on the big boy shoes much later in college, where my teachers reignited the passion leading me on the path I am now.
+          My name is Dwayne Wisdom a Computer and Business student, problem solver, and explorer of programming languages. I am passionate about the possibilities technology unlocks, especially the way code acts as a bridge between human logic and machine execution.
+          My journey started in the 10th grade, when I realized that a simple program could automate a task or solve a real problem for someone else. That curiosity evolved into a serious pursuit in college, where mentors and coursework reignited my passion and guided me onto the path I continue to build today.
         </p>
       </div>
       <div className="logo-container">
