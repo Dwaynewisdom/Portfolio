@@ -5,6 +5,7 @@ import Homepage from "./Homepage.jsx";
 import Aurora from './Aurora';
 import Mywork from "./Mywork.jsx";
 import Footer from "./Footer.jsx";
+import Workexperience from "./Workexperience.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
@@ -15,6 +16,7 @@ createRoot(document.getElementById("root")).render(
       speed={0.5}
     />
     <Homepage/>
+    <Workexperience/>
     <Mywork/>  
     <Footer/>
   </StrictMode>

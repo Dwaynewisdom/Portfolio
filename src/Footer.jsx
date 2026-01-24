@@ -12,7 +12,7 @@ function Footer() {
         <a href="https://www.linkedin.com/in/dwayne-wisdom-32599728b/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/Dwaynewisdom/Portfolio-New@fb663cb1ceb8cfa530f1595a7fc0abe4e4668df9/linkedin.png" className="img4" alt="Linkeldn" />
         </a>
-        <a href="https://cdn.jsdelivr.net/gh/Dwaynewisdom/Portfolio-New@5185d3c2aae0381a1507e7e44ec805a8a1885584/Dwayne%20wisdom.pdf" tartget="_blank">
+        <a href="https://cdn.jsdelivr.net/gh/Dwaynewisdom/Portfolio-New@6888043a34c4b971c1a740e74d6e03cf9fbc1826/Dwayne%20Resume(2).pdf" tartget="_blank">
             <img src="https://cdn.jsdelivr.net/gh/Dwaynewisdom/Portfolio-New@81ba44ead376e191d9cfefcbc0bc5c61f27f12a4/resume.png" className="img4" alt="Resume"/>
         </a>
     </div>
