@@ -1,0 +1,24 @@
+.expe-homepage{
+    background:black;
+    text-align: center;
+}
+
+
+.Experience{
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    margin:auto
+    
+}
+
+.Experience ul{
+    text-decoration: none;
+
+}
+
+.background-video {
+    width:100%;
+    height: auto;
+}

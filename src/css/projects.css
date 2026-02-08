@@ -1,0 +1,12 @@
+.projects{
+    background-color: black;
+    text-align: center;
+}
+
+.Project{
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    margin:auto
+}
