@@ -1,6 +1,7 @@
 import './../css/Aboutme.css';
+import {gsap} from 'gsap';
+import { useEffect } from 'react';
 function Homepage() {
-
 
   const techStacks = [{
     name: "React",
